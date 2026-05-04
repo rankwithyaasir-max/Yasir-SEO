@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rankwithyaasir-max.github.io/Yasir-SEO/sitemap.xml
